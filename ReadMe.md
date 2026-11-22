@@ -105,9 +105,9 @@ Here are some projects I've been working on:
 | Project | Description |
 |---|---|
 | 🍔 Food Ordering Website | A web-based platform for browsing and ordering food online. |
-| 🌐 Tech Fest Website | A website designed for showcasing tech fest events and activities. |
-| 🍽️ SmartCanteen | A Java-based canteen management system with food ordering and admin functionality. |
-| 🛡️ Female Safety App | A safety-focused application designed to support personal security and emergency assistance. |
+| 🌱 Tech Fest Website | A website designed for showcasing tech fest events and activities. |
+| 💻 OS-DB Manager | Operating system resource and database transaction management project. |
+| 🌐 Web Projects | Various websites and web applications built while exploring web development. |
 
 Check out my repositories for more!
 
