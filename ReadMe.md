@@ -100,31 +100,16 @@ I'm someone who enjoys experimenting with code, learning new technologies, and t
 
 ## 🚀 Featured Projects
 
-A collection of projects I've worked on, combining creativity, problem-solving and technology.
+Here are some projects I've been working on:
 
-### 🍔 [Food Ordering Website](https://github.com/tanmaygunwant9/Food-odering-website)
+| Project | Description |
+|---|---|
+| 🍔 Food Ordering Website | A web-based platform for browsing and ordering food online. |
+| 🌐 Tech Fest Website | A website designed for showcasing tech fest events and activities. |
+| 🍽️ SmartCanteen | A Java-based canteen management system with food ordering and admin functionality. |
+| 🛡️ Female Safety App | A safety-focused application designed to support personal security and emergency assistance. |
 
-A web-based food ordering platform designed to provide a smooth and convenient food browsing and ordering experience.
-
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9/Food-odering-website)
-
-### 🌐 [Tech Fest Website](https://github.com/tanmaygunwant9/website_for_tech_fest)
-
-A dedicated event website showcasing technology events, providing essential information and creating an engaging experience for participants.
-
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9/website_for_tech_fest)
-
-### 🍽️ [SmartCanteen](https://github.com/tanmaygunwant9/SmartCanteen)
-
-A Java-based canteen management system featuring food ordering, menu management and administrative operations.
-
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9/SmartCanteen)
-
-### 🛡️ [Female Safety App](https://github.com/tanmaygunwant9/female-safety-app)
-
-A safety-focused application designed around personal security and accessible emergency assistance.
-
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9/female-safety-app)
+Check out my repositories for more!
 
 ---
 
@@ -133,7 +118,6 @@ A safety-focused application designed around personal security and accessible em
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanmaygunwant9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygunwant9&theme=tokyonight&hide_border=true" />
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygunwant9&layout=compact&theme=tokyonight&hide_border=true" />
