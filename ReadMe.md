@@ -98,19 +98,33 @@ I'm someone who enjoys experimenting with code, learning new technologies, and t
 
 ---
 
-## 🚀 Things I've Built
+## 🚀 Featured Projects
 
-A few projects from my development journey:
+A collection of projects I've worked on, combining creativity, problem-solving and technology.
 
-| Project | Description |
-|---|---|
-| 🍽️ Smart Canteen | Java-based canteen management system with ordering and admin functionality. |
-| 🌱 CarbonRush AI | AI and blockchain-powered carbon credit transparency platform. |
-| 🚗 Ride Sharing App | Flutter-based ride-sharing platform connecting drivers and passengers. |
-| 💻 OS-DB Manager | Operating system resource and database transaction management project. |
-| 🌐 Web Projects | Various websites and web applications built while exploring web development. |
+### 🍔 [Food Ordering Website](https://github.com/tanmaygunwant9/Food-odering-website)
 
-Check out my repositories for more!
+A web-based food ordering platform designed to provide a smooth and convenient food browsing and ordering experience.
+
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9/Food-odering-website)
+
+### 🌐 [Tech Fest Website](https://github.com/tanmaygunwant9/website_for_tech_fest)
+
+A dedicated event website showcasing technology events, providing essential information and creating an engaging experience for participants.
+
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9/website_for_tech_fest)
+
+### 🍽️ [SmartCanteen](https://github.com/tanmaygunwant9/SmartCanteen)
+
+A Java-based canteen management system featuring food ordering, menu management and administrative operations.
+
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9/SmartCanteen)
+
+### 🛡️ [Female Safety App](https://github.com/tanmaygunwant9/female-safety-app)
+
+A safety-focused application designed around personal security and accessible emergency assistance.
+
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9/female-safety-app)
 
 ---
 
@@ -119,6 +133,7 @@ Check out my repositories for more!
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanmaygunwant9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygunwant9&theme=tokyonight&hide_border=true" />
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygunwant9&layout=compact&theme=tokyonight&hide_border=true" />
@@ -154,7 +169,9 @@ I'm always open to connecting with fellow developers, collaborating on projects,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanmaygunwant)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/tanmaygunwant9)
+
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail)](mailto:tanmayg2019@gmail.com)
 
 ### ⭐ Thanks for stopping by!
