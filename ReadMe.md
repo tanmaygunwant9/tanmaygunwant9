@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4BC1D2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanmay+Gunwant" alt="Typing SVG" />
+
+<h3>A passionate developer from Haldwani, India 🇮🇳</h3>
 # 💫 About Me:
 💻 Developer | Tech Enthusiast | Problem Solver<br><br>I'm a Computer Science student passionate about building things with code, exploring emerging technologies, and turning ideas into real-world projects.<br><br>I enjoy learning new technologies, experimenting with different tools, and collaborating with people to create meaningful solutions.<br><br>🎓 B.Tech Student at Graphic Era Hill University<br><br>💻 Interested in Software Development, AI & Full-Stack Development<br><br>🌱 Currently exploring Data Structures & Algorithms<br><br>🚀 Building projects and learning by doing<br><br>🤝 Open to collaboration, hackathons, and exciting opportunities<br><br>🎮 Beyond coding: Gaming, Travelling & Video Editing
 
